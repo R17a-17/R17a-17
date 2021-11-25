@@ -23,6 +23,10 @@
     https://www.anquanke.com/post/id/251220
     https://mp.weixin.qq.com/s/iyhfeWofVoq0VBQ35vGUCQ
     
+   Ognl表达式注入：
+   
+    https://xz.aliyun.com/t/10482
+    
    远程调试：
    
      https://paper.seebug.org/1316/
